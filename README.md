@@ -1,3 +1,5 @@
+# YOLOv8 Object Detection Model for Manufactured Housing Units
+
 This repository is created to share a YOLOv8 model finetuned to identify Manufactured Housing Units from high-resolution aerial imagery.
 
 A custom training dataset of 3200 images representing both single wide MHUs and double wide MHUs was created and was used to fine-tune a YOLOv8 object detection model trained on the COCO dataset.
